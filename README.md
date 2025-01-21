@@ -1,16 +1,10 @@
 # Yo, I'm Angel :P
-I've been programming for a couple months thus far. I'm committing to learning full-stack programming to become a jack-of-all-trades. Currently I have a relatively open schedule so feel free to hmu for pair-programming or collabs.
+cyber security rabbithole
 
-#### https://angeltortora.com/
-
-## Current Objectives:
-1. Improve proficiency in advanced CSS.
-2. Improve proficiency in React programming.
-3. Finish personal website.
-4. Add one project to my portfolio.
+currently learning python, eventually learning c
 
 ## Where to reach me:
-**Discord:** giovannii#0001 <br>
+**Discord:** saintuzume<br>
 **LinkedIn:** https://www.linkedin.com/in/angel-tortora-100b18224/
 
 ### I am free weekdays after 3pm
