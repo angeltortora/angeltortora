@@ -1,7 +1,6 @@
 # Yo, I'm Angel :P
-cyber security rabbithole
 
-currently learning python, eventually learning c
+occupying space and time
 
 ## Where to reach me:
 **Discord:** saintuzume<br>
